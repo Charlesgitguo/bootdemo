@@ -8,11 +8,11 @@ package com.gqq.datasource;
 //@MapperScan(basePackages = {"com.gqq.boot.dao"})
 public class BootDataSource {
 
-   /* @Bean
+    /*@Bean
     @ConfigurationProperties(prefix = "spring.datasource.boot")
     public DataSource getDataSource(){
-        return  new ComboPooledDataSource();
-    }*/
-
+        return DataSourceBuilder.create().build();
+    }
+*/
 
 }
