@@ -5,7 +5,7 @@
   <groupId>com.gqq</groupId>
   <artifactId>bootdemo</artifactId>
   <version>1.0-SNAPSHOT</version>
-  <packaging>jar</packaging>
+  <packaging>war</packaging>
 
   <name>bootdemo</name>
   <url>http://maven.apache.org</url>
